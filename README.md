@@ -1,5 +1,5 @@
 # Prep
 
-Descripion for Git
-and github
+Descripion for Git & Gihub
+
 
